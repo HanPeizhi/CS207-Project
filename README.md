@@ -1,7 +1,7 @@
 # CS207-Project
 This is my CS207 project.
 
-### Link for existing project
+### Link for existing projects
 <p>
   1. https://create.arduino.cc/projecthub/mitov/fanduino-cool-automatic-arduino-fan-75e9f2
   </br>
