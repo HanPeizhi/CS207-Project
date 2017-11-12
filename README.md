@@ -20,6 +20,7 @@ This is my CS207 project.
   </br>
           https://www.elecrow.com/wiki/index.php?title=File:RTC.zip
   </br>
+  3. Adafruit_Sensor(DHT11 lib needed): https://github.com/adafruit/Adafruit_Sensor
   
 </p>
 
