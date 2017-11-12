@@ -23,6 +23,8 @@ This is my CS207 project.
 ### Link for cites
 <p>
   1. LCD: https://www.arduino.cc/en/Tutorial/HelloWorld?from=Tutorial.LiquidCrystal
+  </br>
   2. RTC: https://www.elecrow.com/wiki/index.php?title=Tiny_RTC
+  </br>
   3. HDT11: https://playground.arduino.cc/Main/DHT11Lib
 </>
