@@ -9,3 +9,17 @@ This is my CS207 project.
   </br>
   3. https://learn.adafruit.com/tri-layer-mini-round-robot-chassis-kit/assemble-the-chassis?view=all
 </P>
+
+### Link for library
+<p>
+  1. DHT11: https://github.com/adafruit/DHT-sensor-library
+  </br>
+  2. RTC: https://github.com/adafruit/RTClib
+          https://www.elecrow.com/wiki/index.php?title=File:RTC.zip
+</p>
+
+### Link for cites
+<p>
+  1. LCD: https://www.arduino.cc/en/Tutorial/HelloWorld?from=Tutorial.LiquidCrystal
+  2. RTC: https://www.elecrow.com/wiki/index.php?title=Tiny_RTC
+</>
