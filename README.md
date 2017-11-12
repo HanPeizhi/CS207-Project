@@ -14,10 +14,13 @@ This is my CS207 project.
 <p>
   1. DHT11: https://github.com/adafruit/DHT-sensor-library
   </br>
+            https://github.com/nicolsc/arduino-libs/tree/master/DHT11
+            </br>
   2. RTC: https://github.com/adafruit/RTClib
+  </br>
           https://www.elecrow.com/wiki/index.php?title=File:RTC.zip
   </br>
-  3. DHT11: https://github.com/nicolsc/arduino-libs/tree/master/DHT11
+  
 </p>
 
 ### Link for cites
