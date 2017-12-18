@@ -136,17 +136,17 @@ void loop () {
     lcd.setCursor(0,1);
     lcd.print(hr + now.hour() + ":" + me +  now.minute() + ":" + sd + now.second() + " " + DHT11.temperature + "C " + DHT11.humidity +"%");
     
-    if(now.hour() == 14 && openWater){ // 6点 
-      if(now.minute() == 40){
-        tone(beep, melody);// 3分钟
+    if(now.hour() == 6 && openWater){ // set hour here it is 6am
+      if(now.minute() == 0){          // set one minute for working
+        tone(beep, melody);
       }
       else{
         noTone(beep);
       }
       
-      if ((now.minute() == 41 ) ){
+      if ((now.minute() == 1 ) ){     // after one minute release the cup
         Serial.println("Open water NOW!"); 
-        for(pos = 90; pos>=1; pos-=1){   // goes from 0 degrees to 180 degrees 
+        for(pos = 90; pos>=1; pos-=1){     // goes from 90 degrees to 0 degrees 
           myservo.write(pos);              // tell servo to go to position in variable 'pos' 
           delay(15);                       // waits 15ms for the servo to reach the position 
          }
