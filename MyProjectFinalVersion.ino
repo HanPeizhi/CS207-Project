@@ -1,13 +1,22 @@
 /*
- * 人外 1
- * buttom 1 
- * servo 1 
- * motor 1
- * 
- * HDT 1 @
- * lcd  6  @
- * tone 1 @
- * 
+ * Peizhi Han
+ * CS207 Project
+ *
+ * The project was to make a wake-up machine, 
+ * and the purpose of making this machine was 
+ * because the traditional alarm clock was annoying, 
+ * so our team used water to awake the user. 
+ * Its name is water alarm clock. 
+ *
+ *
+ * servo  1 
+ * HDT    1 
+ * lcd    6  
+ * tone   1 
+ * Potentiometer 0
+ * RTC    2
+ *
+ * Total 11
  */
 
 
@@ -30,7 +39,7 @@ dht11 DHT11;
 //RTC
 RTC_DS1307 RTC;
 //LCD
-LiquidCrystal lcd(12,11,5,4,3,2);  //定义脚位
+LiquidCrystal lcd(12,11,5,4,3,2);  //Define the pin
 
 //Time & Date
 String time="Time: ";
@@ -57,8 +66,8 @@ void setup () {
   myservo.write(90);
 
      // LCD
-    lcd.begin(16,2); //设置LCD显示的数目。16 X 2：16格2行。
-    //lcd.print("hello,Han!"); //将hello,world!显示在LCD上
+    lcd.begin(16,2); //Set the number of LCD displays. 16 X 2:16 grid 2 lines.
+    //lcd.print("hello,Han!"); //Show hello, Han! On the LCD
     
     Wire.begin();
     RTC.begin();
@@ -75,7 +84,7 @@ void loop () {
     int chk = DHT11.read(DHT11PIN);
 
     
-    switch (chk){
+    switch (chk){ // check the DHT work condition
       case DHTLIB_OK: 
                 Serial.println("OK"); 
                 break;
@@ -97,7 +106,7 @@ void loop () {
     
     DateTime now = RTC.now(); //get the time
 
-    
+    // print out the time
     Serial.print(now.year(), DEC);
     Serial.print('/');
     Serial.print(now.month(), DEC);
@@ -128,11 +137,12 @@ void loop () {
     if(now.year() < 10) yr = "0";
     else yr ="";
 
-    //将闪烁的光标设置到column 0, line 1 (注释：从0开始数起，line 0是显示第一行，line 1是第二行。)
-    //lcd.setCursor(0,0);  
-    //lcd.print(time + hr + now.hour() + ":" + me +  now.minute() + ":" + sd + now.second());  //开机后屏幕现实时间
+    // Set the flashing cursor to column 0, line 1 (Note: counting from 0, 
+    // line 0 shows the first line and line 1 shows the second line.)
+    //lcd.setCursor(0,0); //lcd.print(time + hr + now.hour() + ":" + me +  now.minute() + ":" + sd + now.second());  
+    //After power on, the screen shows the time
     lcd.setCursor(0,0);        
-    lcd.print(date + yr + now.year() + "/" + mh + now.month() + "/" + dy + now.day());  //开机后屏幕现实时间
+    lcd.print(date + yr + now.year() + "/" + mh + now.month() + "/" + dy + now.day());  //After power on, the screen shows the time
     lcd.setCursor(0,1);
     lcd.print(hr + now.hour() + ":" + me +  now.minute() + ":" + sd + now.second() + " " + DHT11.temperature + "C " + DHT11.humidity +"%");
     
