@@ -10,16 +10,18 @@ The project was to make a wake-up machine, and the purpose of making this machin
 Repository Contents:
 ============
 Here I provide a map of all thr top-level contents:
-- ProjectWriteup
+- ProjectWriteup - project paper/write-up
 - codeLib - Any libraries that are needed to build your software for you device 
-- example
-- other
-- picture
+- example - Example files that can be run on your hardware
+- other - Proposal and useless somethings
+- picture - This is where the image files for this readme are! Yay! Yay! hah
+- LICENCE - The license file.
+- README.de - The file you're reading now! xD
 
 
 
 
-</br>
+
 The first step: Prepare materials
 ============
 Materials Required List:
