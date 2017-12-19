@@ -21,7 +21,8 @@ Materials Required List:
 - 1 x LED Strip
 - 2 x Potentiometers
 - as much wires as your need
-
+</br>
+</br>
 The second step: set up the board
 ============
 The circuit diagram is as follows：
