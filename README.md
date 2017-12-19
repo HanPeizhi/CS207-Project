@@ -18,10 +18,16 @@ Materials Required List:
 - 2 x Potentiometers
 - as much wires as your need
 
-The second part: set up the board
+Second step: set up the board
 ============
 The circuit diagram is as follows：
 ![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/ApendixA.JPG)
+
+Third step: download the libraries
+============
+https://github.com/HanPeizhi/CS207-Project/tree/master/code
+-
+
 
 ### Link for existing projects
 <p>
