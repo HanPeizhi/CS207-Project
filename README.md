@@ -5,7 +5,7 @@ This is my CS207 project.
 
 The project was to make a wake-up machine, and the purpose of making this machine was because the traditional alarm clock was annoying, so our team used water to awake the user. Its name is water alarm clock. 
 
-First step: Prepare materials
+The first step: Prepare materials
 ============
 Materials Required List:
 - 1 x Arduino UNO
@@ -18,13 +18,13 @@ Materials Required List:
 - 2 x Potentiometers
 - as much wires as your need
 
-Second step: set up the board
+The second step: set up the board
 ============
 The circuit diagram is as follows：
 ![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/ApendixA.JPG)
 </br>
 
-Third step: download the libraries
+The third step: download the libraries
 ============
 Download the libraries from:
 </br>
@@ -38,7 +38,7 @@ There are two folders:
 Download these two whole folders, and add under your path: ..\Arduino\libraries
 </br>
 
-Fourth step: download the example code
+The fourth step: download the example code
 ============
 The Complete demo code can download from here:
 </br>
@@ -47,7 +47,7 @@ https://github.com/HanPeizhi/CS207-Project/tree/master/example
 Then Upload to you arduino.
 </br>
 
-Fifth step: fix the servo and cup
+The fifth step: fix the servo and cup
 ============
 I gripped the servo with an iron clip and then nailed the iron shelf to the wall with a spike:
 </br>
@@ -63,8 +63,10 @@ Here I put the servo on the edge of the mouth of the paper cup, so the servo can
 </br>
 ![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/fixed%20cup%26servo.jpg)
 
-Sixth step:
+The sixth step: Complete project map
 ===========
+![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/fixed%20UNO.jpg)
+![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/fixed%20e-watch.jpg)
 
 
 ### Link for existing projects
