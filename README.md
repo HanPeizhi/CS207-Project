@@ -25,8 +25,26 @@ The circuit diagram is as follows：
 
 Third step: download the libraries
 ============
+Download the libraries from:
 https://github.com/HanPeizhi/CS207-Project/tree/master/code
--
+There are two folders:
+-Dht11
+-RTC
+Download these two whole folders, and add under your path: ..\Arduino\libraries
+
+Fourth step: download the example code
+============
+The Complete demo code can download from here:
+https://github.com/HanPeizhi/CS207-Project/tree/master/example
+Then Upload to you arduino.
+
+Fifth step: fix the servo and cup
+============
+I gripped the servo with an iron clip and then nailed the iron shelf to the wall with a spike:
+![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/fixed%20servo.jpg)
+
+I used a nail to pocke a hole in the bottom edge of the paper cup. Then we nailed two tacks on the wall.
+![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/fixed%20cup.jpg)
 
 
 ### Link for existing projects
