@@ -7,6 +7,17 @@ The project was to make a wake-up machine, and the purpose of making this machin
 </br>
 ![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/project.jpg)
 
+Repository Contents:
+============
+Here I provide a map of all thr top-level contents:
+- ProjectWriteup
+- codeLib - Any libraries that are needed to build your software for you device 
+- example
+- other
+- picture
+
+
+
 
 </br>
 The first step: Prepare materials
