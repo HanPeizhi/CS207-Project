@@ -1,7 +1,7 @@
 # CS207-Project
 This is my CS207 project.
-![alt text][pic1]
-[pic1]: https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/fixed%20UNO.jpg "Logo Title Text 2"
+
+![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/fixed%20UNO.jpg)
 
 ### Link for existing projects
 <p>
