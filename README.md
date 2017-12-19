@@ -99,7 +99,7 @@ If you do not like sticky glue on the wall, we also use tacks to support the bre
 Team
 ===========
 The build team consist of:
-- Peizhi Han</br>
+- Peizhi Han -- I did everything. </br>
 
 
 ### Link for existing projects
