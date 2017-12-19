@@ -21,6 +21,7 @@ Materials Required List:
 Second step: set up the board
 ============
 The circuit diagram is as follows：
+</br>
 ![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/ApendixA.JPG)
 
 Third step: download the libraries
