@@ -3,6 +3,21 @@ This is my CS207 project.
 
 ![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/fixed%20UNO.jpg)
 
+The project was to make a wake-up machine, and the purpose of making this machine was because the traditional alarm clock was annoying, so our team used water to awake the user. Its name is water alarm clock. 
+
+
+Materials Required Required List:
+- 1 x Arduino UNO
+- 1 x Bread-board
+- 1 x Servo
+- 1 x Cup and water
+- as much wires as your need
+- 1 x TRC (Clock module) 
+- 1 x Piezo buzzer
+- 1 x LED Strip
+
+
+
 ### Link for existing projects
 <p>
   1. https://create.arduino.cc/projecthub/mitov/fanduino-cool-automatic-arduino-fan-75e9f2
