@@ -16,6 +16,7 @@ Here I provide a map of all thr top-level contents:
 - /other - Proposal and useless somethings
 - /picture - This is where the image files for this readme are! Yay! Yay! hah
 - /LICENCE - The license file.
+- /hardware - All the design files 
 - /README.de - The file you're reading now! xD
 
 
