@@ -96,6 +96,11 @@ If you do not like sticky glue on the wall, we also use tacks to support the bre
 </br>
 ![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/fixed%20e-watch.jpg)
 
+Team
+===========
+The build team consist of:
+- Peizhi Han</br>
+
 
 ### Link for existing projects
 <p>
