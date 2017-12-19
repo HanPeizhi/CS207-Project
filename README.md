@@ -58,6 +58,13 @@ I used a nail to pocke a hole in the bottom edge of the paper cup. Then we naile
 </br>
 ![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/fixed%20cup.jpg)
 </br>
+</br>
+Here I put the servo on the edge of the mouth of the paper cup, so the servo can jam and release the paper cup when the servo turns:
+</br>
+![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/fixed%20cup%26servo.jpg)
+
+Sixth step:
+===========
 
 
 ### Link for existing projects
