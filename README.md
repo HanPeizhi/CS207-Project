@@ -4,6 +4,7 @@ This is my CS207 project.
 </br>
 The project was to make a wake-up machine, and the purpose of making this machine was because the traditional alarm clock was annoying, so our team used water to awake the user. Its name is water alarm clock. 
 </br>
+</br>
 ![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/project.jpg)
 
 
