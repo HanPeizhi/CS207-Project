@@ -1,7 +1,7 @@
 # CS207-Project
 This is my CS207 project.
 
-[pic1]:https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/fixed UNO.jpg
+[pic1]: https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/fixed%20UNO.jpg
 
 ### Link for existing projects
 <p>
