@@ -8,7 +8,7 @@ The project was to make a wake-up machine, and the purpose of making this machin
 ![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/project.jpg)
 
 
-
+</br>
 The first step: Prepare materials
 ============
 Materials Required List:
@@ -70,7 +70,7 @@ I used a nail to pocke a hole in the bottom edge of the paper cup. Then we naile
 Here I put the servo on the edge of the mouth of the paper cup, so the servo can jam and release the paper cup when the servo turns:
 </br>
 ![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/fixed%20cup%26servo.jpg)
-
+</br>
 
 The sixth step: Complete project map
 ===========
