@@ -7,8 +7,21 @@ The project was to make a wake-up machine, and the purpose of making this machin
 </br>
 ![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/project.jpg)
 
+Repository Contents:
+============
+Here I provide a map of all thr top-level contents:
+- /ProjectWriteup - project paper/write-up
+- /codeLib - Any libraries that are needed to build your software for you device 
+- /example - Example files that can be run on your hardware
+- /other - Proposal and useless somethings
+- /picture - This is where the image files for this readme are! Yay! Yay! hah
+- /LICENCE - The license file.
+- /README.de - The file you're reading now! xD
 
-</br>
+
+
+
+
 The first step: Prepare materials
 ============
 Materials Required List:
@@ -82,6 +95,11 @@ I simply glued the breadboard can stick the breadboard on the wall.
 If you do not like sticky glue on the wall, we also use tacks to support the breadboard on the wall:
 </br>
 ![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/fixed%20e-watch.jpg)
+
+Team
+===========
+The build team consist of:
+- Peizhi Han -- I did everything. </br>
 
 
 ### Link for existing projects
