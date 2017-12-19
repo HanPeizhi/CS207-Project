@@ -21,16 +21,18 @@ Materials Required List:
 Second step: set up the board
 ============
 The circuit diagram is as follows：
-</br>
 ![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/ApendixA.JPG)
 
 Third step: download the libraries
 ============
 Download the libraries from:
+</br>
 https://github.com/HanPeizhi/CS207-Project/tree/master/code
+</br>
 There are two folders:
 -Dht11
 -RTC
+</br>
 Download these two whole folders, and add under your path: ..\Arduino\libraries
 
 Fourth step: download the example code
