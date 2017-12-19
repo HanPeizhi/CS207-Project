@@ -1,9 +1,11 @@
 # CS207-Project
 This is my CS207 project.
-
+</br>
+The project was to make a wake-up machine, and the purpose of making this machine was because the traditional alarm clock was annoying, so our team used water to awake the user. Its name is water alarm clock. 
+</br>
 ![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/project.jpg)
 
-The project was to make a wake-up machine, and the purpose of making this machine was because the traditional alarm clock was annoying, so our team used water to awake the user. Its name is water alarm clock. 
+
 
 The first step: Prepare materials
 ============
@@ -65,7 +67,13 @@ Here I put the servo on the edge of the mouth of the paper cup, so the servo can
 
 The sixth step: Complete project map
 ===========
+I fixed the Arduino on the wall with just a few studs:
+</br>
 ![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/fixed%20UNO.jpg)
+I simply glued the breadboard can stick the breadboard on the wall. 
+</br>
+If you do not like sticky glue on the wall, we also use tacks to support the breadboard on the wall:
+</br>
 ![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/fixed%20e-watch.jpg)
 
 
