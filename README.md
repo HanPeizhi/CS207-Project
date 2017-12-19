@@ -30,8 +30,8 @@ Download the libraries from:
 https://github.com/HanPeizhi/CS207-Project/tree/master/code
 </br>
 There are two folders:
--Dht11
--RTC
+- Dht11
+- RTC
 </br>
 Download these two whole folders, and add under your path: ..\Arduino\libraries
 
