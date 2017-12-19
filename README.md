@@ -22,12 +22,13 @@ Materials Required List:
 - 2 x Potentiometers
 - as much wires as your need
 </br>
-</br>
+
 The second step: set up the board
 ============
 The circuit diagram is as follows：
 ![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/ApendixA.JPG)
 </br>
+
 
 The third step: download the libraries
 ============
@@ -43,6 +44,7 @@ There are two folders:
 Download these two whole folders, and add under your path: ..\Arduino\libraries
 </br>
 
+
 The fourth step: download the example code
 ============
 The Complete demo code can download from here:
@@ -51,6 +53,7 @@ https://github.com/HanPeizhi/CS207-Project/tree/master/example
 </br>
 Then Upload to you arduino.
 </br>
+
 
 The fifth step: fix the servo and cup
 ============
@@ -67,6 +70,7 @@ I used a nail to pocke a hole in the bottom edge of the paper cup. Then we naile
 Here I put the servo on the edge of the mouth of the paper cup, so the servo can jam and release the paper cup when the servo turns:
 </br>
 ![Alt text](https://github.com/HanPeizhi/CS207-Project/blob/master/pictures/fixed%20cup%26servo.jpg)
+
 
 The sixth step: Complete project map
 ===========
