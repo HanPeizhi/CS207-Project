@@ -22,10 +22,10 @@
 
 //#include "DHT.h"
 #include "dht11.h" 
-#include <LiquidCrystal.h>
-#include <Wire.h>
+#include <LiquidCrystal.h>  //arduino sys has this lib
+#include <Wire.h>           //default lib
 #include "RTClib.h"
-#include <Servo.h> 
+#include <Servo.h>          //default lib
 
 //DHT
 dht11 DHT11;
