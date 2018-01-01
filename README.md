@@ -1,5 +1,5 @@
-# CS207-Project
-This is my CS207 project.
+# My Project: Wake-up Machine
+This is my arduino uno and some modules related to a project.
 </br>
 </br>
 The project was to make a wake-up machine, and the purpose of making this machine was because the traditional alarm clock was annoying, so our team used water to awake the user. Its name is water alarm clock. 
